@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "iTour.asia - Discover Asia's Most Beautiful Places",
+    "description": "Explore curated scenic spots across Asia with stunning photography and travel guides."
+  },
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "about": "About"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover the Beauty of Asia",
+      "subtitle": "Curated scenic destinations, breathtaking photography, and travel guides",
+      "cta": "Explore Destinations"
+    },
+    "featured": {
+      "title": "Featured Destinations",
+      "subtitle": "Handpicked locations loved by travelers worldwide"
+    },
+    "map": {
+      "title": "Explore the Map",
+      "subtitle": "Click a country to discover its hidden gems",
+      "backToAsia": "Back to Asia",
+      "tooltip": "Click to explore {country}"
+    },
+    "why": {
+      "title": "Why iTour.asia",
+      "subtitle": "Your gateway to Asia's most extraordinary places",
+      "curated": {
+        "title": "Curated Destinations",
+        "description": "Every destination is handpicked by travel experts who know Asia best."
+      },
+      "photography": {
+        "title": "Stunning Photography",
+        "description": "Professional photos that capture the true essence of each location."
+      },
+      "guides": {
+        "title": "Travel Guides",
+        "description": "Practical tips, best seasons, and insider knowledge for every trip."
+      }
+    }
+  },
+  "countries": {
+    "japan": {
+      "name": "Japan",
+      "description": "A harmonious blend of ancient tradition and modern innovation, where serene temples stand alongside neon-lit cityscapes."
+    },
+    "china": {
+      "name": "China",
+      "description": "Vast landscapes ranging from misty karst mountains to ancient imperial cities, with thousands of years of history at every turn."
+    },
+    "south-korea": {
+      "name": "South Korea",
+      "description": "A dynamic fusion of cutting-edge technology, vibrant pop culture, and serene Buddhist temples nestled in mountain valleys."
+    },
+    "thailand": {
+      "name": "Thailand",
+      "description": "Golden temples, turquoise waters, and legendary street food — the Land of Smiles never fails to enchant."
+    },
+    "vietnam": {
+      "name": "Vietnam",
+      "description": "From the emerald waters of Ha Long Bay to the lantern-lit streets of Hoi An, Vietnam is a feast for the senses."
+    },
+    "indonesia": {
+      "name": "Indonesia",
+      "description": "An archipelago of 17,000 islands offering volcanic landscapes, pristine beaches, and ancient temples shrouded in mist."
+    },
+    "philippines": {
+      "name": "Philippines",
+      "description": "Crystal-clear lagoons, towering limestone cliffs, and some of the friendliest people you'll ever meet."
+    },
+    "india": {
+      "name": "India",
+      "description": "A subcontinent of extraordinary diversity — from the Taj Mahal to Kerala's backwaters, every region tells a different story."
+    },
+    "singapore": {
+      "name": "Singapore",
+      "description": "A gleaming city-state where futuristic gardens meet hawker stalls, and every neighborhood has its own character."
+    },
+    "malaysia": {
+      "name": "Malaysia",
+      "description": "A melting pot of Malay, Chinese, and Indian cultures, with rainforests, islands, and some of Southeast Asia's best food."
+    }
+  },
+  "locations": {
+    "kyoto": {
+      "name": "Kyoto",
+      "description": "The cultural heart of Japan, home to thousands of temples, traditional tea houses, and stunning seasonal beauty.",
+      "guide": {
+        "bestTime": "Best time to visit: March-May (cherry blossoms) and October-November (autumn foliage)",
+        "gettingThere": "From Tokyo: 2h 15min by Shinkansen bullet train",
+        "highlights": ["Fushimi Inari Shrine", "Arashiyama Bamboo Grove", "Kinkaku-ji (Golden Pavilion)", "Gion District"]
+      }
+    },
+    "tokyo": {
+      "name": "Tokyo",
+      "description": "A mesmerizing metropolis where ultra-modern skyscrapers stand beside ancient shrines, offering endless discoveries.",
+      "guide": {
+        "bestTime": "Best time to visit: March-May and October-November for mild weather",
+        "gettingThere": "Narita or Haneda International Airport — major global hub",
+        "highlights": ["Shibuya Crossing", "Senso-ji Temple", "Meiji Shrine", "Tsukiji Outer Market"]
+      }
+    },
+    "hokkaido": {
+      "name": "Hokkaido",
+      "description": "Japan's northern frontier — powder snow, lavender fields, and untouched wilderness.",
+      "guide": {
+        "bestTime": "Best time to visit: February (snow festivals) or July-August (lavender season)",
+        "gettingThere": "From Tokyo: 1h 40min flight to New Chitose Airport",
+        "highlights": ["Furano Lavender Fields", "Niseko Ski Resorts", "Blue Pond in Biei", "Otaru Canal"]
+      }
+    },
+    "zhangjiajie": {
+      "name": "Zhangjiajie",
+      "description": "Towering sandstone pillars that inspired Avatar's floating mountains — a landscape unlike anywhere else on Earth.",
+      "guide": {
+        "bestTime": "Best time to visit: April-June and September-October",
+        "gettingThere": "Fly to Zhangjiajie Hehua Airport, or high-speed rail from Changsha",
+        "highlights": ["Avatar Hallelujah Mountain", "Glass Bridge", "Tianmen Mountain", "Golden Whip Stream"]
+      }
+    },
+    "guilin": {
+      "name": "Guilin",
+      "description": "Karst mountains rising from misty rivers — the landscape that has inspired Chinese painters for centuries.",
+      "guide": {
+        "bestTime": "Best time to visit: April-October",
+        "gettingThere": "Guilin Liangjiang Airport or high-speed rail from Guangzhou (3h)",
+        "highlights": ["Li River Cruise", "Yangshuo Countryside", "Reed Flute Cave", "Elephant Trunk Hill"]
+      }
+    },
+    "jiuzhaigou": {
+      "name": "Jiuzhaigou Valley",
+      "description": "A kaleidoscope of turquoise lakes, multi-tiered waterfalls, and snow-capped peaks in Sichuan's mountain wilderness.",
+      "guide": {
+        "bestTime": "Best time to visit: September-November (autumn colors)",
+        "gettingThere": "Fly to Jiuzhai Huanglong Airport, then 1.5h drive",
+        "highlights": ["Five Flower Lake", "Nuorilang Waterfall", "Mirror Lake", "Panda Lake"]
+      }
+    },
+    "lijiang": {
+      "name": "Lijiang",
+      "description": "An ancient town of cobblestone streets and wooden houses, set against the dramatic backdrop of Jade Dragon Snow Mountain.",
+      "guide": {
+        "bestTime": "Best time to visit: April-May and September-October",
+        "gettingThere": "Lijiang Sanyi International Airport, or overnight train from Kunming",
+        "highlights": ["Old Town of Lijiang", "Jade Dragon Snow Mountain", "Blue Moon Valley", "Black Dragon Pool"]
+      }
+    },
+    "jeju": {
+      "name": "Jeju Island",
+      "description": "South Korea's volcanic island paradise — dramatic coastlines, lush countryside, and unique lava tube caves.",
+      "guide": {
+        "bestTime": "Best time to visit: April-June and September-November",
+        "gettingThere": "1h flight from Seoul, or ferry from Busan",
+        "highlights": ["Seongsan Sunrise Peak", "Hallasan Mountain", "Manjanggul Cave", "Jeju Olle Trail"]
+      }
+    },
+    "seoul": {
+      "name": "Seoul",
+      "description": "A city where royal palaces and hipster neighborhoods coexist, offering world-class food, shopping, and nightlife.",
+      "guide": {
+        "bestTime": "Best time to visit: March-May and September-November",
+        "gettingThere": "Incheon International Airport — major Asian hub",
+        "highlights": ["Gyeongbokgung Palace", "Bukchon Hanok Village", "Myeongdong", "N Seoul Tower"]
+      }
+    },
+    "busan": {
+      "name": "Busan",
+      "description": "South Korea's coastal gem — colorful hillside villages, fresh seafood markets, and beautiful beaches.",
+      "guide": {
+        "bestTime": "Best time to visit: May-June and September-October",
+        "gettingThere": "Gimhae Airport or KTX high-speed rail from Seoul (2.5h)",
+        "highlights": ["Gamcheon Culture Village", "Jagalchi Fish Market", "Haeundae Beach", "Haedong Yonggungsa Temple"]
+      }
+    },
+    "chiang-mai": {
+      "name": "Chiang Mai",
+      "description": "The cultural capital of northern Thailand — ancient temples, night bazaars, and lush mountain landscapes.",
+      "guide": {
+        "bestTime": "Best time to visit: November-February (cool season)",
+        "gettingThere": "Chiang Mai International Airport, 1h 15min from Bangkok",
+        "highlights": ["Doi Suthep Temple", "Old City Temples", "Night Bazaar", "Elephant Nature Park"]
+      }
+    },
+    "phuket": {
+      "name": "Phuket",
+      "description": "Thailand's largest island — stunning beaches, vibrant nightlife, and crystal-clear Andaman waters.",
+      "guide": {
+        "bestTime": "Best time to visit: November-April (dry season)",
+        "gettingThere": "Phuket International Airport, direct flights from many Asian cities",
+        "highlights": ["Phi Phi Islands", "Phang Nga Bay", "Old Phuket Town", "Big Buddha"]
+      }
+    },
+    "bangkok": {
+      "name": "Bangkok",
+      "description": "A city of contrasts — glittering temples, floating markets, rooftop bars, and the world's best street food.",
+      "guide": {
+        "bestTime": "Best time to visit: November-February (cool and dry)",
+        "gettingThere": "Suvarnabhumi Airport — major Southeast Asian hub",
+        "highlights": ["Grand Palace", "Wat Arun", "Chatuchak Weekend Market", "Khao San Road"]
+      }
+    },
+    "ha-long-bay": {
+      "name": "Ha Long Bay",
+      "description": "Thousands of limestone islands rising from emerald waters — a UNESCO World Heritage Site of breathtaking beauty.",
+      "guide": {
+        "bestTime": "Best time to visit: March-May and September-November",
+        "gettingThere": "From Hanoi: 2.5h drive to Ha Long City, then boat",
+        "highlights": ["Overnight Junk Boat Cruise", "Sung Sot Cave", "Ti Top Island", "Kayaking Through Karsts"]
+      }
+    },
+    "hoi-an": {
+      "name": "Hoi An",
+      "description": "An ancient trading port where lantern-lit streets, tailor shops, and riverside cafes create an unforgettable atmosphere.",
+      "guide": {
+        "bestTime": "Best time to visit: February-April (dry and pleasant)",
+        "gettingThere": "Fly to Da Nang Airport, then 30min drive",
+        "highlights": ["Ancient Town", "Japanese Covered Bridge", "An Bang Beach", "Lantern Festival"]
+      }
+    },
+    "bali": {
+      "name": "Bali",
+      "description": "The Island of the Gods — terraced rice paddies, volcanic peaks, and a spiritual energy that draws visitors back again and again.",
+      "guide": {
+        "bestTime": "Best time to visit: April-October (dry season)",
+        "gettingThere": "Ngurah Rai International Airport — direct flights from major Asian cities",
+        "highlights": ["Ubud Rice Terraces", "Tanah Lot Temple", "Uluwatu Temple", "Seminyak Beach"]
+      }
+    },
+    "komodo": {
+      "name": "Komodo Island",
+      "description": "Home to the world's largest lizards and surrounded by some of the most biodiverse marine waters on Earth.",
+      "guide": {
+        "bestTime": "Best time to visit: April-December",
+        "gettingThere": "Fly to Labuan Bajo (Flores), then boat to Komodo",
+        "highlights": ["Komodo Dragon Trek", "Pink Beach", "Manta Point Snorkeling", "Padar Island Sunrise"]
+      }
+    },
+    "boracay": {
+      "name": "Boracay",
+      "description": "A tiny island with powdery white sand beaches and legendary sunsets that consistently rank among the world's best.",
+      "guide": {
+        "bestTime": "Best time to visit: November-May (dry season)",
+        "gettingThere": "Fly to Caticlan or Kalibo Airport, then boat transfer",
+        "highlights": ["White Beach", "Puka Shell Beach", "Ariel's Point Cliff Jumping", "Sunset Sailing"]
+      }
+    },
+    "el-nido": {
+      "name": "El Nido",
+      "description": "Towering limestone cliffs, hidden lagoons, and pristine beaches — the crown jewel of Palawan.",
+      "guide": {
+        "bestTime": "Best time to visit: November-May (dry season)",
+        "gettingThere": "Fly to El Nido Airport or Puerto Princesa, then van transfer",
+        "highlights": ["Big Lagoon", "Small Lagoon", "Nacpan Beach", "Island Hopping Tour A & C"]
+      }
+    },
+    "agra": {
+      "name": "Agra",
+      "description": "Home to the Taj Mahal — the world's most famous monument to love, and one of the Seven Wonders of the World.",
+      "guide": {
+        "bestTime": "Best time to visit: October-March (cooler months)",
+        "gettingThere": "From Delhi: 2h by Gatimaan Express train",
+        "highlights": ["Taj Mahal at Sunrise", "Agra Fort", "Mehtab Bagh", "Fatehpur Sikri"]
+      }
+    },
+    "jaipur": {
+      "name": "Jaipur",
+      "description": "The Pink City — a royal tapestry of palaces, forts, and bazaars in the heart of Rajasthan.",
+      "guide": {
+        "bestTime": "Best time to visit: October-March",
+        "gettingThere": "Jaipur International Airport, or 4h drive/train from Delhi",
+        "highlights": ["Amber Fort", "Hawa Mahal", "City Palace", "Nahargarh Fort Sunset"]
+      }
+    },
+    "kerala": {
+      "name": "Kerala",
+      "description": "India's tropical paradise — palm-fringed backwaters, spice plantations, and Ayurvedic wellness retreats.",
+      "guide": {
+        "bestTime": "Best time to visit: September-March",
+        "gettingThere": "Cochin International Airport — direct flights from major cities",
+        "highlights": ["Alleppey Backwater Houseboat", "Munnar Tea Plantations", "Fort Kochi", "Periyar Wildlife Sanctuary"]
+      }
+    },
+    "gardens-by-the-bay": {
+      "name": "Gardens by the Bay",
+      "description": "A futuristic botanical wonderland with towering Supertrees and cloud forests in the heart of Singapore.",
+      "guide": {
+        "bestTime": "Year-round destination (tropical climate)",
+        "gettingThere": "MRT to Bayfront Station, 5min walk",
+        "highlights": ["Supertree Grove", "Cloud Forest", "Flower Dome", "OCBC Skyway"]
+      }
+    },
+    "marina-bay": {
+      "name": "Marina Bay",
+      "description": "Singapore's dazzling waterfront district — iconic skyline, world-class dining, and the famous infinity pool.",
+      "guide": {
+        "bestTime": "Year-round destination",
+        "gettingThere": "MRT to Bayfront or Marina Bay Station",
+        "highlights": ["Marina Bay Sands SkyPark", "Spectra Light Show", "Merlion Park", "ArtScience Museum"]
+      }
+    },
+    "langkawi": {
+      "name": "Langkawi",
+      "description": "A duty-free archipelago of 99 islands — mangrove forests, cable car rides, and some of Malaysia's best beaches.",
+      "guide": {
+        "bestTime": "Best time to visit: December-March (dry season)",
+        "gettingThere": "Langkawi International Airport, or ferry from Kuala Kedah",
+        "highlights": ["Langkawi Sky Bridge", "Langkawi Cable Car", "Kilim Karst Geoforest Park", "Pantai Cenang Beach"]
+      }
+    },
+    "kuala-lumpur": {
+      "name": "Kuala Lumpur",
+      "description": "A vibrant capital where the iconic Petronas Towers pierce the sky above bustling street markets and colonial architecture.",
+      "guide": {
+        "bestTime": "Best time to visit: May-July and December-February",
+        "gettingThere": "KLIA — major Southeast Asian hub with budget airline connections",
+        "highlights": ["Petronas Twin Towers", "Batu Caves", "Jalan Alor Food Street", "Merdeka Square"]
+      }
+    }
+  },
+  "gallery": {
+    "viewAll": "View All Photos",
+    "lightbox": {
+      "close": "Close",
+      "next": "Next Photo",
+      "previous": "Previous Photo"
+    }
+  },
+  "common": {
+    "readMore": "Read More",
+    "back": "Back",
+    "loading": "Loading...",
+    "bestTime": "Best Time to Visit",
+    "gettingThere": "Getting There",
+    "highlights": "Highlights"
+  },
+  "footer": {
+    "tagline": "Curating Asia's most extraordinary destinations",
+    "explore": "Explore",
+    "about": "About",
+    "aboutText": "iTour.asia is your curated guide to Asia's most beautiful destinations, featuring professional photography and practical travel guides.",
+    "copyright": "iTour.asia. All rights reserved."
+  }
+}
