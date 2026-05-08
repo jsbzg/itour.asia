@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npx --version)",
+      "Bash(pnpm --version)",
+      "Bash(yarn --version)",
+      "Bash(git --version)",
+      "Bash(vercel --version)",
+      "Bash(npm view *)",
+      "WebSearch",
+      "Bash(npx create-next-app@latest --help)",
+      "WebFetch(domain:next-intl.dev)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --turbopack)"
+    ]
+  }
+}
