@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import VisitCounter from "@/components/ui/VisitCounter";
 
 export default function Footer() {
   const t = useTranslations();
@@ -40,6 +41,7 @@ export default function Footer() {
           <p className="text-stone-500 text-sm">
             &copy; {new Date().getFullYear()} {t("footer.copyright")}
           </p>
+          <VisitCounter />
         </div>
       </div>
     </footer>
